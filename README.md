@@ -13,7 +13,6 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=guzitos&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="160" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guzitos&locale=pt-br&layout=compact&theme=dracula&hide_border=false" height="160" alt="languages graph" />
 
 </div>
