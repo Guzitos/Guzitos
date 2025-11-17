@@ -9,16 +9,6 @@
 
 ---
 
-### 📊 Estatísticas
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guzitos&locale=pt-br&layout=compact&theme=dracula&hide_border=false" height="160" alt="languages graph" />
-
-</div>
-
----
-
 ### 🚀 Minhas Skills
 
 <div align="center">
@@ -47,3 +37,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
+<div align="center">
+
+---
+
+
+<div align="center">
+
+<img width="100%" src="https://stats.hyo.dev/api/github-stats-advanced?login=guzitos" alt="GitHub Streak"/>
+
+</div>
+
