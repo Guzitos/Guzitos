@@ -1,54 +1,13 @@
-<!-- PERFIL GITHUB JAVA / BACKEND / SPRING BOOT -->
-<div align="center"> 
-  
-  ### 🧠 Sobre mim
+<h1 align="center">Hi 👋, I'm Gustavo</h1>
 
-💡 Desenvolvedor **Backend Java**, apaixonado por criar APIs escaláveis, seguras e bem estruturadas.  
-🔧 Trabalho com **Spring Boot**, **JPA/Hibernate**, **MySQL**, **Docker** e **RESTful APIs**.  
-📚 Atualmente estudando **microserviços**, **Spring Cloud** e **mensageria (Kafka/RabbitMQ)**.  
-🎯 Foco total em **backend limpo, modular e performático**.
+- 💬 Ask me about **💡 Desenvolvedor Backend Java, apaixonado por criar APIs escaláveis, seguras e bem estruturadas. 🔧 Trabalho com Spring Boot, JPA/Hibernate, MySQL, Docker e RESTful APIs. 📚 Atualmente estudando microserviços, Spring Cloud e mensageria (Kafka/RabbitMQ). 🎯 Foco total em backend limpo, modular e performático.**
 
-  
-</div>
+- 📫 How to reach me **guzitos.dev@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gu-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gu-dev/" height="30" width="40" /></a>
+</p>
 
----
-
-
-<div align="center">
-
-### 🚀 Minhas Skills
-  
-  <!-- Java & Spring -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="Spring Boot logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="50" alt="Maven logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git logo" />
-</div>
-
----
-
-
-
-<div align="center">
-  
-  ### 📬 Onde me encontrar
-  
-  <a href="https://www.linkedin.com/in/gu-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
-
-<div align="center">
-
----
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="50"/> </a> </p>
