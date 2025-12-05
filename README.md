@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gustavo</h1>
+<h1 align="center">Gustavo</h1>
 
 - 💬 Ask me about **💡 Desenvolvedor Backend Java, apaixonado por criar APIs escaláveis, seguras e bem estruturadas. 🔧 Trabalho com Spring Boot, JPA/Hibernate, MySQL, Docker e RESTful APIs. 📚 Atualmente estudando microserviços, Spring Cloud e mensageria (Kafka/RabbitMQ). 🎯 Foco total em backend limpo, modular e performático.**
 
