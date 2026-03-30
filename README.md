@@ -3,7 +3,7 @@
 - 💬 Ask me about **💡 Desenvolvedor Backend Java, apaixonado por criar APIs escaláveis, seguras e bem estruturadas. 🔧 Trabalho com Spring Boot, JPA/Hibernate, MySQL, Docker e RESTful APIs. 📚 Atualmente estudando microserviços, Spring Cloud e mensageria (Kafka/RabbitMQ). 🎯 Foco total em backend limpo, modular e performático.**
 
 - 📫 How to reach me **guzitos.dev@gmail.com**
-- 👉 [**Click here**](https://pride-exact-11203842.figma.site) para ver meu portfolio.
+- 👉 [**Click here**](https://guzitos.netlify.app) para ver meu portfolio.
 
 
 <h3 align="left">Connect with me:</h3>
